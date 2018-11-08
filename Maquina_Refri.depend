@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1539970042 source:d:\embarcados\nova pasta\maquina_refri\main.cpp
+	<iostream>
+	<Estado.h>
+
+1541617775 
+
+1539923242 d:\embarcados\nova pasta\maquina_refri\include\estado.h
+
+1539922703 source:d:\embarcados\nova pasta\maquina_refri\src\estado.cpp
+	"Estado.h"
+	<iostream>
+
+1541617881 source:d:\embarcados\nova pasta\maquina_refri - final2\main.cpp
+	<Interface.h>
+
+1541617881 .h>
+
+1539923242 d:\embarcados\nova pasta\maquina_refri - final2\include\estado.h
+
+1541617295 source:d:\embarcados\nova pasta\maquina_refri - final2\src\estado.cpp
+	"Estado.h"
+	<iostream>
+
+1541617897 d:\embarcados\nova pasta\maquina_refri - final2\include\interface.h
+
+1541617775 source:d:\embarcados\nova pasta\maquina_refri - final2\src\interface.cpp
+	"Interface.h"
+	<Estado.h>
+	<iostream>
+
+1541639647 source:/home/pi/Desktop/Maquina_Refri/main.cpp
+	<Interface.h>
+
+1541639647 /home/pi/Desktop/Maquina_Refri/include/Interface.h
+
+1541639297 source:/home/pi/Desktop/Maquina_Refri/src/Estado.cpp
+	"Estado.h"
+	<iostream>
+
+1539912444 /home/pi/Desktop/Maquina_Refri/include/Estado.h
+
+1541639891 source:/home/pi/Desktop/Maquina_Refri/src/Interface.cpp
+	"Interface.h"
+	<Estado.h>
+	<iostream>
+
