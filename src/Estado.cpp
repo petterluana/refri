@@ -1,4 +1,5 @@
 #include "Estado.h"
+
 #include <iostream>
 using namespace std;
 
@@ -176,5 +177,4 @@ void Estado::tecla_dev(){
         valor_total = 0;
     }
 }
-
 

@@ -1,16 +1,18 @@
-#ifndef REFRI_H_INCLUDED
-#define REFRI_H_INCLUDED
-#include "Produtos.cpp"
+#ifndef REFRI_H
+#define REFRI_H
+
 #include <string.h>
 #include <iostream>
 using namespace std;
 
-class Refri: public Produtos{
+#include "Produtos.h"
+
+
+class Refri: public Produtos
+{
     public:
-	Refri();
-	Refri(string, float);
+        Refri();
+        Refri(string, float);
 };
 
-
-
-#endif // REFRI_H_INCLUDED
+#endif // REFRI_H

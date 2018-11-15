@@ -1,7 +1,4 @@
 #include "Produtos.h"
-#include <string.h>
-#include <iostream>
-using namespace std;
 
 void Produtos::setNome(string name){
 	nome=name;

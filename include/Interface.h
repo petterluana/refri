@@ -1,6 +1,7 @@
 #ifndef INTERFACE_H
 #define INTERFACE_H
-#include "Refri.cpp"
+
+#include "Refri.h"
 
 class Interface
 {
@@ -9,8 +10,8 @@ class Interface
         Refri etirps;//("Etirps", 150);
         int opcao; //controla as opções da máquina
         int liberado;
-        Interface(); // construtor
-        void opcoes_maquina();
+        //Interface(); // construtor
+        virtual void opcoes_maquina() = 0;
 };
 
 #endif // INTERFACE_H

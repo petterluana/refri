@@ -1,6 +1,7 @@
 #ifndef ESTADO_H
 #define ESTADO_H
 
+
 class Estado
 {
     public:
@@ -12,7 +13,6 @@ class Estado
     private:
         void devolucao_automatica();
         void opcao();
-
 };
 
 #endif // ESTADO_H
