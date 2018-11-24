@@ -1,9 +1,8 @@
 #include <iostream>
 #include "Interface.h"
-#include "InterfaceRaspberry.h"
-#include "InterfaceComputador.h"
+#include "InterfaceRaspberry.cpp"
+#include "InterfaceComputador.cpp"
 
-#include <iostream>
 using namespace std;
 
 int main()

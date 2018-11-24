@@ -1,6 +1,6 @@
 #ifndef FILA1_H
 #define FILA1_H
-#include "Node.h"
+#include "Node.cpp"
 
 //Classe para armazenar as propagandas a serem apresentadas no display
 class Fila1

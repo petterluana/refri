@@ -46,9 +46,6 @@ bool Fila1::getVazia(){
     return(head == NULL);
 }
 
-
-
-
 string Fila1::readFirst() {
    return head->getVal();
 }
@@ -56,8 +53,8 @@ string Fila1::readFirst() {
 string Fila1::removeFirst() {
     string retval = 0;
     if (head != 0){
-        cout << "Removendo: " << head << endl;
-        cout << "e fica:" << head->getVal() << endl;
+        //cout << "Removendo: " << head << endl;
+        //cout << "e fica:" << head->getVal() << endl;
         retval = head->getVal();
         Node* oldHead = head;
         head = head->getNext();

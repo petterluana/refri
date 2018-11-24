@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-#include "Produtos.h"
+#include "Produtos.cpp"
 
 
 class Refri: public Produtos

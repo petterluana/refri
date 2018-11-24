@@ -1,6 +1,6 @@
 #ifndef FILA2_H
 #define FILA2_H
-#include "Node.h"
+//#include "Node.cpp"
 
 //Classe para armazenar novas propagandas fornecidas pelo usuário, mas que ainda não estão sendo apresentadas no display.
 class Fila2

@@ -1,6 +1,6 @@
 #ifndef LOG_H
 #define LOG_H
-#include "Node.h"
+//#include "Node.cpp"
 
 class Log
 {
